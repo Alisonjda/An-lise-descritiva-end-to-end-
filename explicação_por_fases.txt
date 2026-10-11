@@ -1,0 +1,7 @@
+Primeira etapa -> Entendimento dos Dados
+
+
+Nesta etapa, foi realizada uma análise inicial da base de dados utilizando a biblioteca Pandas. 
+O objetivo foi compreender sua estrutura, identificar as colunas disponíveis,
+verificar os tipos de dados, analisar as dimensões do conjunto e obter estatísticas descritivas.
+Essas verificações permitem conhecer melhor os dados antes de iniciar a etapa de validação, limpeza e tratamento, contribuindo para uma análise mais confiável.

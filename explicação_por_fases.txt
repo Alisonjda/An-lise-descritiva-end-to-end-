@@ -10,7 +10,8 @@ Essas verificações permitem conhecer melhor os dados antes de iniciar a etapa 
 Segunda etapa -> Limpeza e tratamento
 
 Corrigir tipos de dados, tratar valores ausentes, remover duplicatas quando apropriado e padronizar informações.
-com a aplicação do EPA, para um processo de limpeza eficiente 
-E -> exploração - (EDA) -> Análise exploratoria dos dados
+com a aplicação do protocolo EPA, para um processo de limpeza mais eficiente.
+
+E -> exploração - (EDA) -> Análise exploratória dos dados
 P -> Polimento - Corrigir as inconsistências de formatação e digitação 
-A -> Anomalias
+A -> Anomalias - quantile  iqr
